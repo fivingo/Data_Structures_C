@@ -13,7 +13,7 @@ void main() {
     int i, n;
     int list[MAX_SIZE];
 
-    printf("Enter the number of numbers to genearate: ");
+    printf("Enter the number of numbers to generate: ");
     scanf("%d", &n);
 
     if (n < 1 || n > MAX_SIZE) {
